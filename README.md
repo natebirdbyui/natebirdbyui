@@ -23,12 +23,11 @@ I enjoy translating ideas into working software and refining those projects thro
 
 -- GitHub Statistics
 
-[Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=natebirdbyui&show_icons=true&theme=tokyonight)
+[Nathan's GitHub stats][https://github.com/](https://github.com/)<natebirdbyui>
 
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natebirdbyui&theme=tokyonight)
 
 -- Connect
 - GitHub: [@natebirdbyui](https://github.com/natebirdbyui)
 - Always open to learning, collaboration, and new opportunities.
-
 
