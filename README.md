@@ -23,7 +23,7 @@ I enjoy translating ideas into working software and refining those projects thro
 
 -- GitHub Statistics
 
-[Nathan's GitHub stats][https://github.com/](https://github.com/)<natebirdbyui>
+[Nathan's GitHub stats]([https://github.com/](https://github.com/)<natebirdbyui>)
 
 [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natebirdbyui&theme=tokyonight)
 
